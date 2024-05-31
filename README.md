@@ -11,7 +11,7 @@ This project provides a simple console application written in C# that disables t
 
 1. **Clone the repository**:
    ```sh
-   git clone [https://github.com/QuarksoftLLC/bluetooth-toggle.git](https://github.com/QuarksoftLLC/ToggleBluetoothForStreamDeck.git)
+   git clone https://github.com/QuarksoftLLC/ToggleBluetoothForStreamDeck.git
    cd bluetooth-toggle
    ```
 
