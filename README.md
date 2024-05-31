@@ -11,7 +11,7 @@ This project provides a simple console application written in C# that disables t
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/bluetooth-toggle.git
+   git clone https://github.com/QuarksoftLLC/bluetooth-toggle.git
    cd bluetooth-toggle
    ```
 
@@ -140,7 +140,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
 
 ---
 
