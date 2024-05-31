@@ -12,7 +12,7 @@ This project provides a simple console application written in C# that disables t
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/QuarksoftLLC/ToggleBluetoothForStreamDeck.git
-   cd bluetooth-toggle
+   cd ToggleBluetoothForStreamDeck
    ```
 
 2. **Install the 32feet.NET library**:
